@@ -7,7 +7,7 @@ Final Project :
 
 Overview
 This is the course project for the Coursera Statistical Inference class. It analyzes the
-exponential distribution in R and aplies the Central Limit Theorem to a thousand
+exponential distribution in R and applies the Central Limit Theorem to a thousand
 simulations.
 This work investigates the exponential distribution in R and compares it with the Central
 Limit Theorem.The project explains with simulation and explaratory texts through
